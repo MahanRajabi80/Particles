@@ -1,0 +1,13 @@
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\bin\Debug\Particles.exe
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\bin\Debug\Particles.pdb
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\MainWindow.baml
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\App.g.cs
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\Particles_MarkupCompile.cache
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\Particles.g.resources
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\Particles.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\Particles.exe
+C:\Users\M-H Computer\Desktop\WPF Projects\Particles\cs\obj\x86\Debug\Particles.pdb
